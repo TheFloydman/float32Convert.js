@@ -1,7 +1,8 @@
 /*
 *
 * float32Convert.js by Dan Floyd (Floydman). Convert between 32-bit floats and
-* decimal numbers.
+* decimal numbers. Based on example code created by Eric
+* (https://stackoverflow.com/a/10564792/9029177).
 *
 * Usage: float32Convert(inputNumber, toFloat, otherBase)
 * : "inputNumber" is the number you want to convert. This can be in any base and
